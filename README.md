@@ -3,14 +3,21 @@
 
 ゼミの活動や、主宰教員である[深見嘉明](http://d.hatena.ne.jp/yofukami/about)担当の授業に関する情報は、[はてなブログ] (http://icatlab.hatenablog.com/) においても公開されます。
 
-## ゼミの運営方針
-[深見ゼミ運営ルール](https://github.com/icat-lab/icat_lab/blob/master/rule.md)を参照ください。
+# 研究室に関する情報
 
-##ゼミの関連URL
-- [Twitter/ @icat_lab](https://twitter.com/icat_lab/)   ※ゼミのハッシュタグは #icat_lab 
+## メンバー
+[深見研究室メンバー紹介](https://github.com/icat-lab/icat_lab/blob/master/member.md)をご参照ください。
+
+## 研究室の運営方針
+[深見研究室運営ルール](https://github.com/icat-lab/icat_lab/blob/master/rule.md)を参照ください。
+
+## 研究室の研究業績
+[研究業績ページ](https://github.com/icat-lab/icat_lab/blob/master/works.md)を参照ください。
+
+##研究室の関連URL
+- [Twitter/ @icat_lab](https://twitter.com/icat_lab/)   ※研究室のハッシュタグは #icat_lab 
 - [はてなブログ] (http://icatlab.hatenablog.com/) 
 
 
-## ゼミの研究業績
-### 2015年度
+
 
