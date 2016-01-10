@@ -1,3 +1,15 @@
+各自のプロフィールの作成方法をここに記します。
+1: まず、GitHub アカウントを @rikkyo.ac.jp のメールアドレスで作成してください。
+2: GitHub Educationの申請をしておいてください。 参照=> http://qiita.com/gishi_yama/items/55be53d8a52c7304563a
+2: 教員に作成した旨を連絡してくだされば、organizationへのinvitationを出します。
+3: icat-lab/icat_lab のwiki <https://github.com/icat-lab/icat_lab/wiki> に、ページを作ってください。ページ名は自分の名前で。
+4: 自分のページの中身は、下記フォーマットに則ってください。
+5: 2箇所あるメンバー一覧に自分を追加して、その際自分のWikiページヘのリンクを貼ってください。
+   - https://github.com/icat-lab/icat_lab/blob/master/member.md
+   - https://github.com/icat-lab/icat_lab/wiki/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB
+
+#以下、フォーマット
+--------
 ==所属・役職==
 hogehoge
 
