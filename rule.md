@@ -17,7 +17,9 @@
 [#general](https://icatlab.slack.com/messages/general/team/) チャンネルでは、学年を超えてのコミュニケーションを行います。合宿や研究発表会などの情報共有用ですね。
 
 ### Facebook group
-Slackは便利なんですが、permalink/ URLが生成されないですし、トピックごとにスレッドを立てられません。ですので、適宜[Facebook group](https://www.facebook.com/groups/icatlabFY2015/)でスレッドを立てることになります。
+適宜[Facebook group](https://www.facebook.com/groups/icatlabFY2015/)でスレッドを立てることになります。
+
+(Slackでも、投稿ごとにURLが発行されていることに今頃気づきました、、、でも、reply機能が無いので適宜FBも使うよ、と）
 
 ### on site meeting
 基本的に毎週土曜日の午後(16:00 - 18:00 が基本) に実施します。秋学期はビジネス・シミュレーションの授業日程に依存して時間帯が変更になる場合があります。また、学会や国際会議等出席のため、時間変更・skype/google hangoutなどのオンラインミーティング・休講とする場合があります。スケジュールはSlack #fy2016 チャンネルと、Facebook Groupでお知らせします。
