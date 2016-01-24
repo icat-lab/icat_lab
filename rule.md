@@ -3,6 +3,12 @@
 ### コミュニケーション
 [Slack](https://slack.com/)でのチャットがメインになります。
 ゼミ生にはSlackの[ICAT lab. チーム](https://icatlab.slack.com/)に招待致します。
+スマートフォン用のアプリ
+[(iPhone)](https://itunes.apple.com/jp/app/slack-team-communication/id618783545?mt=8)
+[(Android)](https://play.google.com/store/apps/details?id=com.Slack)
+[(Windows)](http://www.itmedia.co.jp/news/articles/1503/19/news102.html)
+もありますので、ノートパソコンを持っていなくても__即座にアプリをインストール__してください。
+このゼミ、__活動のほとんどをSlack上で行います。__
 
 ### Slack #fy2016 チャンネル
 今年度のチャンネル #fy2016 で、全体の連絡事項を伝えます。
@@ -17,7 +23,9 @@
 [#general](https://icatlab.slack.com/messages/general/team/) チャンネルでは、学年を超えてのコミュニケーションを行います。合宿や研究発表会などの情報共有用ですね。
 
 ### Facebook group
-適宜[Facebook group](https://www.facebook.com/groups/icatlabFY2015/)でスレッドを立てることになります。
+適宜[Facebook group](https://www.facebook.com/groups/icatlabFY2015/)でスレッドを立てます。とりあえず、深見にリンク申請してください。
+
+※リンク申請をする際、__メッセージで連絡してください。__顔写真を載せていない場合、誰が誰だかわからなくてリンクを承認できない事例が続出してまして、、、
 
 (Slackでも、投稿ごとにURLが発行されていることに今頃気づきました、、、でも、reply機能が無いので適宜FBも使うよ、と）
 
