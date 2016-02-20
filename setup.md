@@ -10,6 +10,6 @@
 
 ## スマートフォン用アプリのインストール
 以下のリンクから、各ストアにアクセスしてください。
-- [(iPhone)](https://itunes.apple.com/jp/app/slack-team-communication/id618783545?mt=8)
-- [(Android)](https://play.google.com/store/apps/details?id=com.Slack)
-- [(Windows)](http://www.itmedia.co.jp/news/articles/1503/19/news102.html)
+- [iPhone](https://itunes.apple.com/jp/app/slack-team-communication/id618783545?mt=8)
+- [Android](https://play.google.com/store/apps/details?id=com.Slack)
+- [Windows](http://www.itmedia.co.jp/news/articles/1503/19/news102.html)
