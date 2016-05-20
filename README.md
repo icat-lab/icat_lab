@@ -11,6 +11,11 @@
 ## 研究室の運営方針
 [深見研究室運営ルール](https://github.com/icat-lab/icat_lab/blob/master/rule.md)を参照ください。
 
+## 研究内容
+以下のリンク先を参照ください。
+- [研究室のコンセプト](https://github.com/icat-lab/icat_lab/blob/master/research_topic.md)
+- [リサーチアジェンダ: 医療・製薬・保健分野におけるオープン・ユーザーイノベーション](https://github.com/icat-lab/case_med_innovation/blob/master/agenda.md)
+
 ## 研究室の研究業績
 [研究業績ページ](https://github.com/icat-lab/icat_lab/blob/master/works.md)を参照ください。
 
