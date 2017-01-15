@@ -1,3 +1,9 @@
+# 分析枠組 *輪読文献*
+- Burrell, G. & Morgan,G. _Sociological Paradigms
+and Organizational Analysis_ Heinemann, 1979.
+  - 邦訳: 鎌田伸一、金井一頼、野中郁次郎 共訳『組織理論のパラダイム：機能主義の分析枠組』千倉書房，1988.
+  - [Amazon.co.jp](https://www.amazon.co.jp/dp/4805105364/)
+
 # プラットフォーム理論
 ## プラットフォーム戦略
 - Gawer, A. and Cusumano, M.A. _Platform leadership: How Intel, Microsoft, and Cisco drive industry innovation_ Harvard Business School Press, 2002.
