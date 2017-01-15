@@ -1,4 +1,4 @@
-# 分析枠組 *輪読文献*
+# 分析枠組 __輪読文献__
 - Burrell, G. & Morgan,G. _Sociological Paradigms
 and Organizational Analysis_ Heinemann, 1979.
   - 邦訳: 鎌田伸一、金井一頼、野中郁次郎 共訳『組織理論のパラダイム：機能主義の分析枠組』千倉書房，1988.
