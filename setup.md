@@ -2,7 +2,7 @@
 深見ゼミでの研究活動を開始するためのセットアップ手順をまとめています。
 
 # セットアップ手順
-##Slack
+## Slack
 ### 深見ゼミのチーム
 https://icatlab.slack.com/ です。
 チーム名は _icatlab_ です。
@@ -23,3 +23,15 @@ https://icatlab.slack.com/ です。
 - [iPhone](https://itunes.apple.com/jp/app/slack-team-communication/id618783545?mt=8)
 - [Android](https://play.google.com/store/apps/details?id=com.Slack)
 - [Windows](http://www.itmedia.co.jp/news/articles/1503/19/news102.html)
+
+## ファイルバックアップ
+### まず最初に
+このまとめを読みましょう。
+- 修論発表前に○○君のPCが壊れ、数時間後ついに本人が壊れたという続報が「ほんとバックアップって超大切」 - Togetter https://togetter.com/li/1195630
+
+### バックアップの方法
+パソコンは2台持つのをおすすめ。以下のクラウドサービスを使って、常に2台が同じ状態になっていると、いざという時のマシントラブルの被害を最小限に抑えることができます。
+
+### サービス
+- Dropbox 定番
+- Google Drive 学生はSPIRIT Google Drive、要はG Suite for Educationの膨大なデータ容量を使えるので、こちらもおすすめ。ただし、卒業すると使えなくなります。 Google Driveは、 [こちら](https://support.google.com/drive/answer/2374987) からダウンロード可能。SPIRITアカウントも、ウェブブラウザによる認証でログインできますので、ご安心を。
