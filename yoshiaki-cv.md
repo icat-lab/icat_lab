@@ -48,7 +48,7 @@
 -1999年4月-2005年 7月: [http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ]
 
 # 賞罰
-- 2018年12月3日: 日本経営情報学会 [(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+- 2018年12月3日: 日本経営情報学会 [若手研究発表賞:YIA, Young Investigator Award 受賞](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
 - 2017年11月吉日 立教大学教育活動特別賞
 
 # 著書 (分担執筆を含む)
