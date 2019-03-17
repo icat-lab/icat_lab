@@ -1,10 +1,10 @@
 # 深見嘉明CV
 ## 注記
-はてなプロフィールがテキスト分量制限オーバーのため、こちらに移転作業中です。はてな記法からMarddownへの書き換え作業を適宜進めていきますが、記法変換が終わっていない箇所の見栄えが悪い旨、ご容赦ください。
+[はてなプロフィール](http://d.hatena.ne.jp/yofukami/about)がテキスト分量制限オーバーのため、こちらに移転作業中です。はてな記法からMarddownへの書き換え作業を適宜進めていきますが、記法変換が終わっていない箇所の見栄えが悪い旨、ご容赦ください。
 
 ## 略歴
 1976年京都府京都市生まれ
-[http://www.aoyama.ac.jp/index.html:title=青山学院大学][http://www.sipeb.aoyama.ac.jp/:title=国際政治経済学部][http://www.aoyama.ac.jp/college/sipec/politics/index.html:title=国際政治学科]卒業後、[http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ](現 [http://www.dentsu-mi.co.jp/:title=株式会社 電通マクロミルインサイト])にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[http://www.sfc.keio.ac.jp/academics/graduate/:title=慶應義塾大学大学院]に入学。 [http://www.keio.ac.jp/index-jp.html:title=慶應義塾]大学大学院[http://www.sfc.keio.ac.jp/academics/graduate/:title=政策・メディア研究科]特任助教時に[http://www.w3.org/:title=World Wide Web Consortium][http://www.w3.org/Consortium/Hosts/Keio/Contact:title=(W3C/Keio)]インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[https://www.rikkyo.ac.jp/:title=立教大学][https://www.rikkyo.ac.jp/academics/graduate/:title=大学院][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/:title=ビジネスデザイン研究科][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/professor/:title=特任准教授]、[http://linkedopendata.jp/:title=Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ]理事。[http://opendatainstitute.org/:title=Open Data Institute] [http://theodi.jp/:title=Osaka City Node] [http://theodi.jp/team/:title=Leading Team]。[http://w-ug.jp/:title= 特定非営利活動法人日本ウェアラブルデバイスユーザー会]理事。[http://www.kri.sfc.keio.ac.jp/:title=慶應義塾大学SFC研究所]上席所員(訪問)、[http://www.w3.org/:title=World Wide Web Consortium] [http://www.w3.org/community/devrel/:title=Developer Relations Community Group]、[http://www.w3.org/2005/Incubator/socialweb/:title=Social Web Incubator Group]メンバー。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
+[青山学院大学](http://www.aoyama.ac.jp/index.html)[http://www.sipeb.aoyama.ac.jp/:title=国際政治経済学部][http://www.aoyama.ac.jp/college/sipec/politics/index.html:title=国際政治学科]卒業後、[http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ](現 [http://www.dentsu-mi.co.jp/:title=株式会社 電通マクロミルインサイト])にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[http://www.sfc.keio.ac.jp/academics/graduate/:title=慶應義塾大学大学院]に入学。 [http://www.keio.ac.jp/index-jp.html:title=慶應義塾]大学大学院[http://www.sfc.keio.ac.jp/academics/graduate/:title=政策・メディア研究科]特任助教時に[http://www.w3.org/:title=World Wide Web Consortium][http://www.w3.org/Consortium/Hosts/Keio/Contact:title=(W3C/Keio)]インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[https://www.rikkyo.ac.jp/:title=立教大学][https://www.rikkyo.ac.jp/academics/graduate/:title=大学院][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/:title=ビジネスデザイン研究科][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/professor/:title=特任准教授]、[http://linkedopendata.jp/:title=Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ]理事。[http://opendatainstitute.org/:title=Open Data Institute] [http://theodi.jp/:title=Osaka City Node] [http://theodi.jp/team/:title=Leading Team]。[http://w-ug.jp/:title= 特定非営利活動法人日本ウェアラブルデバイスユーザー会]理事。[http://www.kri.sfc.keio.ac.jp/:title=慶應義塾大学SFC研究所]上席所員(訪問)、[http://www.w3.org/:title=World Wide Web Consortium] [http://www.w3.org/community/devrel/:title=Developer Relations Community Group]、[http://www.w3.org/2005/Incubator/socialweb/:title=Social Web Incubator Group]メンバー。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
 
 #ORCID
 [http://orcid.org/0000-0002-7838-8215:title=0000-0002-7838-8215]
@@ -21,7 +21,7 @@
      </div>
 </div>
 
-#所属学会
+# 所属学会
 -[http://home.aisnet.org/:title=AIS (Association for Information Systems)]
 -[http://www.euras.org/:title=EURAS (European Academy for Standardization)]
 -[http://ifipwg82.org/:title=IFIP Working Group 8.2]
@@ -39,7 +39,7 @@
 -[http://www.e-jomsa.jp/index.html:title=オペレーションズ・マネジメント＆ストラテジー学会]
 -[http://www.business-creator.org/:title=ビジネスクリエーター研究学会]
 
-*職歴/教歴
+# 職歴/教歴
 -2015年4月-現任: [https://www.rikkyo.ac.jp/:title=立教大学][https://www.rikkyo.ac.jp/academics/graduate/:title=大学院][https://www.rikkyo.ac.jp/sindaigakuin/bizsite/:title=ビジネスデザイン研究科][https://www.rikkyo.ac.jp/sindaigakuin/bizsite/professor/#fukami:title=特任准教授]
 -2014年4月-現任: [http://www.seikei.ac.jp/university/:title=成蹊大学][http://www.seikei.ac.jp/university/bungaku/index.html:title=文学部][http://www.seikei.ac.jp/university/bungaku/contemporary/index.html:title=現代社会学科]非常勤講師
 -2012年4月-2014年3月: [http://www.rikkyo.ac.jp/:title=立教大学][http://www.rikkyo.ac.jp/academics/undergraduate/business/:title=経営学部]兼任講師
@@ -47,10 +47,11 @@
 -2010年10月-2014年3月: [http://www.kait.jp/:title=神奈川工科大学][http://www.kait.jp/ug_gr/undergrad/creative/:title=創造工学部][http://www.kait.jp/ug_gr/undergrad/creative/homeElectronics/:title=ホームエレクトロニクス開発学科]非常勤講師。
 -1999年4月-2005年 7月: [http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ]
 
-*賞罰
-2017年11月吉日 立教大学教育活動特別賞
+# 賞罰
+- 2018年12月3日: 日本経営情報学会 [(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+- 2017年11月吉日 立教大学教育活動特別賞
 
-*著書 (分担執筆を含む)
+# 著書 (分担執筆を含む)
 深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」「[https://www.amazon.co.jp/dp/4794424906/:title=『ビジネスデザインと経営学』] (立教大学大学院ビジネスデザイン研究科編), pp. 227-247, 創成社, 2016.
 asin:4794424906:detail
 
