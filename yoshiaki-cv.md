@@ -266,12 +266,12 @@ asin:4757416059:detail
 深見嘉明「Web2.0的ビジネスモデルの実際」[http://www.cluster-chiba.jp/ssIT/archives/2006_06.html:title=千葉県先端情報技術活用研究会次世代インターネット分科会　平成18年度　第1回【ssIT 2006 NextNet 1st】『Web2.0って何？！　〜これからのWebはどうなるのか、また、ソフトウェアやビジネスモデルはどうなるのか〜』] , 2006.
 
 ## 学会口頭発表
-- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77会全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)(西南学院大学, Fukuoka)[(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77会全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)(西南学院大学, Fukuoka)[(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf) [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html)
 
-- Y. Fukami. [https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing:title=Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.] [http://scos2018.org/:title=The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)] 2018年8月18日. [https://www.meiji.ac.jp/:title=明治大学, Tokyo] [https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing:title=(予稿集PDF)]
+- Y. Fukami. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [http://scos2018.org/:title=The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)] 2018年8月18日. [https://www.meiji.ac.jp/:title=明治大学, Tokyo] [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
  
-深見嘉明. [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.] [http://www.jsicr.jp/operation/taikai/38tai-spring-member.html:title=2018年度春季(第38回)][http://www.jsicr.jp/:title=情報通信学会]大会. 2018年7月1日, [慶應義塾大学 三田キャンパス, Tokyo.] [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=(要旨PDF)]
+- 深見嘉明. [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.] [http://www.jsicr.jp/operation/taikai/38tai-spring-member.html:title=2018年度春季(第38回)][http://www.jsicr.jp/:title=情報通信学会]大会. 2018年7月1日, [慶應義塾大学 三田キャンパス, Tokyo.] [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=(要旨PDF)]
 
 深見嘉明, 清水たくみ. [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=オープンデジタルプラットフォームによるエコシステム形成], [https://confit.atlas.jp/guide/event/aaos2018s/top:title=2018年度組織学会研究発表大会.] 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=(予稿集PDF)]
 
