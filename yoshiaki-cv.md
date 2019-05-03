@@ -1,89 +1,97 @@
 # 深見嘉明CV
 ## 注記
-[はてなプロフィール](http://d.hatena.ne.jp/yofukami/about)がテキスト分量制限オーバーのため、こちらに移転作業中です。はてな記法からMarddownへの書き換え作業を適宜進めていきますが、記法変換が終わっていない箇所の見栄えが悪い旨、ご容赦ください。
+[はてなプロフィール](http://d.hatena.ne.jp/yofukami/about)がテキスト分量制限オーバーのため、こちらに移転作業中です。はてな記法からMarkdownへの書き換え作業を適宜進めていきますが、記法変換が終わっていない箇所の見栄えが悪い旨、ご容赦ください。
 
 ## 略歴
-1976年京都府京都市生まれ
-[青山学院大学](http://www.aoyama.ac.jp/index.html)[http://www.sipeb.aoyama.ac.jp/:title=国際政治経済学部][http://www.aoyama.ac.jp/college/sipec/politics/index.html:title=国際政治学科]卒業後、[http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ](現 [http://www.dentsu-mi.co.jp/:title=株式会社 電通マクロミルインサイト])にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[http://www.sfc.keio.ac.jp/academics/graduate/:title=慶應義塾大学大学院]に入学。 [http://www.keio.ac.jp/index-jp.html:title=慶應義塾]大学大学院[http://www.sfc.keio.ac.jp/academics/graduate/:title=政策・メディア研究科]特任助教時に[http://www.w3.org/:title=World Wide Web Consortium][http://www.w3.org/Consortium/Hosts/Keio/Contact:title=(W3C/Keio)]インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[https://www.rikkyo.ac.jp/:title=立教大学][https://www.rikkyo.ac.jp/academics/graduate/:title=大学院][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/:title=ビジネスデザイン研究科][http://www.rikkyo.ac.jp/sindaigakuin/bizsite/professor/:title=特任准教授]、[http://linkedopendata.jp/:title=Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ]理事。[http://opendatainstitute.org/:title=Open Data Institute] [http://theodi.jp/:title=Osaka City Node] [http://theodi.jp/team/:title=Leading Team]。[http://w-ug.jp/:title= 特定非営利活動法人日本ウェアラブルデバイスユーザー会]理事。[http://www.kri.sfc.keio.ac.jp/:title=慶應義塾大学SFC研究所]上席所員(訪問)、[http://www.w3.org/:title=World Wide Web Consortium] [http://www.w3.org/community/devrel/:title=Developer Relations Community Group]、[http://www.w3.org/2005/Incubator/socialweb/:title=Social Web Incubator Group]メンバー。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
+博士(政策・メディア)  
+1976年京都府京都市生まれ。  
+[青山学院大学](http://www.aoyama.ac.jp/index.html) [国際政治経済学部](http://www.sipeb.aoyama.ac.jp/) [国際政治学科](http://www.aoyama.ac.jp/college/sipec/politics/index.html) 卒業後、[株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)[(現 株式会社電通マクロミルインサイト)](http://www.dentsu-mi.co.jp/)にて通信・自動車・メディア企業等に対するマーケティングリサーチ・コンサルティングに従事し、ウェブリサーチ・ウェブをベースとしたマーケティングインテリジェンスビジネスに関する新規事業開発に携わった後、[慶應義塾大学大学院](http://www.sfc.keio.ac.jp/academics/graduate/)[政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)に入学。 [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院政策・メディア研究科](http://www.sfc.keio.ac.jp/academics/graduate/) 特任助教時に[World Wide Web Consortium](http://www.w3.org/)[(W3C/Keio)](http://www.w3.org/Consortium/Hosts/Keio/Contact)インターンとしてプロモーション、ディベロッパーリレーション等の活動に従事。現在、[立教大学](https://www.rikkyo.ac.jp/)[大学院](https://www.rikkyo.ac.jp/academics/graduate/)[ビジネスデザイン研究科](https://business-school.rikkyo.ac.jp/)[特任准教授](http://univdb.rikkyo.ac.jp/view?l=ja&u=100001304&a2=0000010&o=affiliation&sm=affiliation&sl=ja&sp=2)、[Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ](http://linkedopendata.jp/)理事。[Open Data Institute](http://opendatainstitute.org/) [Osaka City Node](http://theodi.jp/) [Leading Team](http://theodi.jp/team/)。[慶應義塾大学SFC研究所](http://www.kri.sfc.keio.ac.jp/)上席所員)。現在は、ウェブプラットフォーム設計とコミュニティ形成、メタデータを媒介としたコンテンツ流通戦略、データ連携に必要な技術策定と普及、ソフトウェア標準化戦略、オープンデータ、オープンガバメントなどウェブ・情報技術をベースにした情報流通形態に関して研究・活動を行っている。
 
-#ORCID
-[http://orcid.org/0000-0002-7838-8215:title=0000-0002-7838-8215]
+## ORCID
+[0000-0002-7838-8215](http://orcid.org/0000-0002-7838-8215)
 
-#hCard
+## hCard
+```
 <div class="vcard">
-     <a class="url" href="http://d.hatena.ne.jp/yofukami/" title="deepen:深見嘉明のブログ">
+     <a class="url" href="https://github.com/icat-lab/icat_lab/blob/master/yoshiaki-cv.md" title="深見嘉明のCV">
                <span class="fn n">
-               <span class="family-name">深見</span><span class="given-name">嘉明</span>
+               <span class="family-name">Fukami</span><span class="given-name">Yoshiaki</span>
           </span>
-     <div class="org">NPO法人 Linked Open Data Initiative</div>
+     <div class="org">Rikkyo Business School</div>
      <a class="email" href="mailto:yofukami@gmail.com" title="深見嘉明 にメールする">yofukami@gmail.com</a>
      <div class="adr">
      </div>
 </div>
+```
 
-# 所属学会
--[http://home.aisnet.org/:title=AIS (Association for Information Systems)]
--[http://www.euras.org/:title=EURAS (European Academy for Standardization)]
--[http://ifipwg82.org/:title=IFIP Working Group 8.2]
--[http://www.ifip95wg.org/:title=IFIP Working Group 9.5]
--[http://www.jasmin.jp/:title=経営情報学会] (理事、広報委員長)
--[http://www.aaos.or.jp/:title=組織学会]
--[http://www.keiei-gakkai.jp/:title=日本経営学会]
--[http://infosocio.org/:title=情報社会学会]
--[http://www.jsicr.jp/:title=情報通信学会]
--[http://jsrpim.jp/:title=研究・イノベーション学会]
--[http://ciriec.com/index.html:title=国際公共経済学会]
--[https://www.j-mac.or.jp/:title=日本マーケティング学会]
--[https://www.ipsj.or.jp/:title=情報処理学会]
---[http://ipsj-is.jp/:title=情報システムと社会環境研究会]
--[http://www.e-jomsa.jp/index.html:title=オペレーションズ・マネジメント＆ストラテジー学会]
--[http://www.business-creator.org/:title=ビジネスクリエーター研究学会]
+## 所属学会
+- [AIS (Association for Information Systems)](http://home.aisnet.org/)
+- [EURAS (European Academy for Standardization)](http://www.euras.org/)
+- [IFIP Working Group 8.2](http://ifipwg82.org/)
+- [IFIP Working Group 9.5](http://www.ifip95wg.org/)
+- [経営情報学会](http://www.jasmin.jp/) (理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced))
+  - 組織ディスコース研究部会　[(研究部会紹介PDF)](http://www.bunken.org/jasmin/members/src/nopass_disp_file.php?f=journal/pdf/27-3_204.pdf)
+- [日本情報経営学会(JSIM)](http://www.jsim.gr.jp/)
+- [情報通信学会](http://www.jsicr.jp/)
+- [組織学会](http://www.aaos.or.jp/)
+- [日本経営学会](http://www.keiei-gakkai.jp/)
+- [国際公共経済学会](http://ciriec.com/index.html)
+- [情報社会学会](http://infosocio.org/)
+- [日本マーケティング学会](https://www.j-mac.or.jp/)
+- [情報処理学会](https://www.ipsj.or.jp/)
+  - [情報システムと社会環境研究会](http://ipsj-is.jp/)
+- [ビジネスクリエーター研究学会](http://www.business-creator.org/)
 
-# 職歴/教歴
--2015年4月-現任: [https://www.rikkyo.ac.jp/:title=立教大学][https://www.rikkyo.ac.jp/academics/graduate/:title=大学院][https://www.rikkyo.ac.jp/sindaigakuin/bizsite/:title=ビジネスデザイン研究科][https://www.rikkyo.ac.jp/sindaigakuin/bizsite/professor/#fukami:title=特任准教授]
--2014年4月-現任: [http://www.seikei.ac.jp/university/:title=成蹊大学][http://www.seikei.ac.jp/university/bungaku/index.html:title=文学部][http://www.seikei.ac.jp/university/bungaku/contemporary/index.html:title=現代社会学科]非常勤講師
--2012年4月-2014年3月: [http://www.rikkyo.ac.jp/:title=立教大学][http://www.rikkyo.ac.jp/academics/undergraduate/business/:title=経営学部]兼任講師
--2011年4月-2013年3月: [http://www.keio.ac.jp/index-jp.html:title=慶應義塾大学][http://www.sfc.keio.ac.jp/academics/graduate/:title=大学院政策・メディア研究科]特任助教
--2010年10月-2014年3月: [http://www.kait.jp/:title=神奈川工科大学][http://www.kait.jp/ug_gr/undergrad/creative/:title=創造工学部][http://www.kait.jp/ug_gr/undergrad/creative/homeElectronics/:title=ホームエレクトロニクス開発学科]非常勤講師。
--1999年4月-2005年 7月: [http://www.dentsuresearch.co.jp/:title=株式会社電通リサーチ]
+## 職歴/教歴
+- 2015年4月-現任: [立教大学](https://www.rikkyo.ac.jp/) [大学院](https://www.rikkyo.ac.jp/academics/graduate/)[ビジネスデザイン研究科](https://business-school.rikkyo.ac.jp/)[特任准教授](http://univdb.rikkyo.ac.jp/view?l=ja&u=100001304&a2=0000010&o=affiliation&sm=affiliation&sl=ja&sp=2)
+- 2014年4月-現任: [成蹊大学](http://www.seikei.ac.jp/university/)[文学部](http://www.seikei.ac.jp/university/bungaku/index.html)[現代社会学科](http://www.seikei.ac.jp/university/bungaku/contemporary/index.html)非常勤講師
+- 2012年4月-2014年3月: [立教大学](https://www.rikkyo.ac.jp/)[経営学部](http://www.rikkyo.ac.jp/academics/undergraduate/business/)兼任講師
+- 2011年4月-2013年3月: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)特任助教
+- 2010年10月-2014年3月: [神奈川工科大学](http://www.kait.jp/)[創造工学部](http://www.kait.jp/ug_gr/undergrad/creative/)[ホームエレクトロニクス開発学科](http://www.kait.jp/ug_gr/undergrad/creative/homeElectronics/)非常勤講師。
+- 1999年4月-2005年 7月: [株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)
 
-# 賞罰
-- 2018年12月3日: 日本経営情報学会 [若手研究発表賞:YIA, Young Investigator Award 受賞](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
-- 2017年11月吉日 立教大学教育活動特別賞
+## 賞罰
+- 2018年12月3日: 日本情報経営学会 [若手研究発表賞: YIA, Young Investigator Award 受賞](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+- 2017年11月吉日: 立教大学教育活動特別賞
 
-# 著書 (分担執筆を含む)
-深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」「[https://www.amazon.co.jp/dp/4794424906/:title=『ビジネスデザインと経営学』] (立教大学大学院ビジネスデザイン研究科編), pp. 227-247, 創成社, 2016.
-asin:4794424906:detail
+## 外部研究資金獲得履歴
 
-深見嘉明 「「謎を解きたがる人たち」の正体を解き明かしたくて」[http://www.amazon.co.jp/dp/4908087008/:title=『次の本へ』](苦楽堂編), pp. 270-273, 苦楽堂, 2014
-asin:4908087008:detail
+## 社会貢献活動
+- 2017年6月-2019年6月: - [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
 
-W3C/Keio（慶應義塾大学SFC研究所 World Wide Web Consortium)監修,  深見嘉明 , 外山 真, 池田拓司, 小松健作, 竹迫良範, 浅野紀予(著)　[http://www.ric.co.jp/book/contents/book_893.html:title=『スキル向上のためのHTML５テクニカルレビュー　Web標準の進化系（Web to Go）』][http://www.ric.co.jp/telecom/:title=リックテレコム], 2012
-asin:4897978939:detail
+## 研究業績
+### 著書 (分担執筆を含む)
+- 深見嘉明「IoT時代のプラットフォーム戦略―エコシステムをどう作り上げ,関与するのか―」[立教大学大学院ビジネスデザイン研究科編](https://business-school.rikkyo.ac.jp/)[『ビジネスデザインと経営学』](https://www.amazon.co.jp/dp/4794424906/) , pp. 227-247, 創成社, 2016.     [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4794424906)
 
-深見嘉明・夏野剛 「エコシステム形成のフラットフォーム:標準化活動の行動分析」[http://www.nikkeibook.com/book_detail/13413/:title=『創発経営のプラットフォーム』(國領二郎,プラットフォームデザイン・ラボ編著)], pp. 119-154. [http://www.nikkeibook.com/index.php:title=日本経済新聞出版社]. 2011.
-asin:9784532134136:detail
+- 深見嘉明 「謎を解きたがる人たち」の正体を解き明かしたくて」苦楽堂編『次の本へ』 pp. 270-273, 苦楽堂, 2014. [(Amazon.co.jp)](http://www.amazon.co.jp/dp/4908087008/)
 
-深見嘉明[http://www.d21.co.jp/modules/shop/product_info.php?products_id=623#:title=『文系ビジネスパーソンのためのウェブ力最大化計画』][http://www.d21.co.jp/:title=ディスカヴァー・トゥエンティワン], 2009.
-asin:4887597029:detail
+- W3C/Keio（慶應義塾大学SFC研究所 World Wide Web Consortium)監修,  深見嘉明 , 外山 真, 池田拓司, 小松健作, 竹迫良範, 浅野紀予(著)　[『スキル向上のためのHTML５テクニカルレビュー　Web標準の進化系（Web to Go）』](http://www.ric.co.jp/book/contents/book_893.html)[リックテレコム](http://www.ric.co.jp/telecom/), 2012. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4897978939)
 
+- 深見嘉明・夏野剛 「エコシステム形成のフラットフォーム:標準化活動の行動分析」[『創発経営のプラットフォーム』(國領二郎,プラットフォームデザイン・ラボ編著)](http://www.nikkeibook.com/book_detail/13413/), pp. 119-154. [日本経済新聞出版社](http://www.nikkeibook.com/index.php). 2011. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4532134137)
 
-深見嘉明[http://www.nttpub.co.jp/vbook/list/detail/0241.html:title=『ウェブは菩薩である 〜メタデータが世界を変える』]NTT出版, 2008.
-ASIN:4757102410:detail
+- 深見嘉明 [『文系ビジネスパーソンのためのウェブ力最大化計画』](http://www.d21.co.jp/modules/shop/product_info.php?products_id=623) [ディスカヴァー・トゥエンティワン](http://www.d21.co.jp/), 2009.
+[(Amazon.co.jp)](https://www.amazon.co.jp/dp/4887597029)
 
-*訳書
-[http://tomheath.com/home/html:title=Tom Heath], [http://dws.informatik.uni-mannheim.de/en/people/professors/prof-dr-christian-bizer/:title=Christian Bizer] [http://linkeddatabook.com/editions/1.0/:title="Linked Data: Evolving the Web into a Global Data Space (1st edition)”] [http://www.morganclaypool.com/:title=Morgan & Claypool Publishers], 2011.(監修・翻訳: 武田 英明, 翻訳: 大向 一輝, 加藤 文彦, 嘉村 哲郎, 亀田 尭宙, 小出 誠二, 深見 嘉明, 松村 冬子, 南 佳孝, [http://www.kindaikagaku.co.jp/information/kd0427.htm:title=『Linked Data: Webをグローバルなデータ空間にする仕組み』] [http://www.kindaikagaku.co.jp/index.htm:title=近代科学社], 2013)
-asin:978-4764904279:detail
+- 深見嘉明 [『ウェブは菩薩である 〜メタデータが世界を変える』](http://www.nttpub.co.jp/vbook/list/detail/0241.html) NTT出版, 2008.
+[(Amazon.co.jp)](https://www.amazon.co.jp/dp/4757102410)
 
-*学位論文
-深見嘉明. [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO90001001-20144204-0003:title=実装主義プロセスの標準仕様収斂効果 : W3Cにおけるマルチステークホルダー協働形態確立によるイノベーション創出事例分析]. 慶應義塾大学大学院政策・メディア研究科2014年度修士論文, 2015. 
+### 訳書
+- [Tom Heath](http://tomheath.com/home/html), [Christian Bizer](http://dws.informatik.uni-mannheim.de/en/people/professors/prof-dr-christian-bizer/) ["Linked Data: Evolving the Web into a Global Data Space (1st edition)”](http://linkeddatabook.com/editions/1.0/) [Morgan & Claypool Publishers](http://www.morganclaypool.com/), 2011.(監修・翻訳: 武田 英明, 翻訳: 大向 一輝, 加藤 文彦, 嘉村 哲郎, 亀田 尭宙, 小出 誠二, 深見 嘉明, 松村 冬子, 南 佳孝, [『Linked Data: Webをグローバルなデータ空間にする仕組み』](http://www.kindaikagaku.co.jp/information/kd0427.htm) [近代科学社](http://www.kindaikagaku.co.jp/index.htm), 2013)
+[(Amazon.co.jp)](https://www.amazon.co.jp/dp/978-4764904279)
 
-深見嘉明. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. 慶應義塾大学大学院政策・メディア研究科2007年度修士論文, 2007.([http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf:title=paper])
+### 学位論文
+- 深見嘉明. [実装主義プロセスの標準仕様収斂効果 : W3Cにおけるマルチステークホルダー協働形態確立によるイノベーション創出事例分析](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO90001001-20144204-0003). [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2014年度修士論文, 2015.
 
-*学会論文誌
-古崎晃司，横山輝明，深見嘉明. [https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html:title=GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.] [https://www.ipsj.or.jp/dp/contents/dp-mokuji.html:title=デジタルプラクティス] [https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html:title=Vol.9 No.1.] 2018年1月.
+- 深見嘉明. ソーシャルタギング ―意図せざる協働が生みだす新たな情報流通形態―. [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)2007年度修士論文, 2007. [(PDF)](http://web.sfc.keio.ac.jp/~yofukami/y_fukami_master_thesis.pdf)
 
-深見嘉明. [http://ci.nii.ac.jp/naid/110009685946/:title=個人による情報収集からコミュニティベースの論点設定へ 〜ウェブ技術の進化による価値創造プロセスの変化.] [http://www.infosta.or.jp/journal/journal.html:title=情報の科学と技術], [http://www.infosta.or.jp/journal/back2013j.html:title=Vol.63], [http://www.infosta.or.jp/journal/back2013j.html#12:title=No.12], pp. 486~491, 2013年12月1日. [http://ci.nii.ac.jp/naid/110009685946/:title=(CiNii)]
+### 学会論文誌
+- 古崎晃司，横山輝明，深見嘉明. [GPS移動履歴の収集とオープンデータを用いた移動軌跡のLOD化 ─国際会議ISWC2016における実証実験を例として─.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-T09.html) [情報処理学会デジタルプラクティス](https://www.ipsj.or.jp/dp/contents/dp-mokuji.html) [Vol.9 No.1.](https://www.ipsj.or.jp/dp/contents/publication/33/S0901-index.html) 2018年1月.
+
+```
+はてなプロフィール(http://d.hatena.ne.jp/yofukami/about)がテキスト分量制限オーバーのため、こちらに移転作業中です。
+はてな記法からMarkdownへの書き換え作業を適宜進めていきますが、記法変換が終わっていない箇所の見栄えが悪い旨、ご容赦ください。
+```
+- 深見嘉明. [http://ci.nii.ac.jp/naid/110009685946/:title=個人による情報収集からコミュニティベースの論点設定へ 〜ウェブ技術の進化による価値創造プロセスの変化.] [http://www.infosta.or.jp/journal/journal.html:title=情報の科学と技術], [http://www.infosta.or.jp/journal/back2013j.html:title=Vol.63], [http://www.infosta.or.jp/journal/back2013j.html#12:title=No.12], pp. 486~491, 2013年12月1日. [http://ci.nii.ac.jp/naid/110009685946/:title=(CiNii)]
 
 深見嘉明. [http://ci.nii.ac.jp/naid/40019466731:title=共有プラットフォームとしてのソフトウェア標準: W3Cにおける実装主義設計プロセスが形成するエコシステム]. [http://ciriec.com/journal:title=国際公共経済研究], Vol.23, pp. 102-112, 2012年9月. [http://ci.nii.ac.jp/naid/40019466731:title=(CiNii)]
 
@@ -99,11 +107,13 @@ asin:978-4764904279:detail
 
 Bibtexなどは，[http://jp.citeulike.org/user/yofukami/tag/yfjpnjournal:title=citeUlike]にまとめてあるのでどうぞ．
 
-*Lecture Note
-Yoshiaki Fukami, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [http://www.springerlink.com/content/gx738105676q1671/:title=Specification Patent Management for Web Application Platform Ecosystem]. [http://www.springerlink.com/content/978-3-642-16396-8/:title=E-business Technology and Strategy], [http://www.springerlink.com/content/1865-0929/:title=Communications in Computer and Information Science] [http://www.springerlink.com/content/978-3-642-16396-8/:title=Vol. 113], [http://www.springerlink.com/content/gx738105676q1671/:title=pp269--280]. Springer, 2010.  (2010年10月6日）　[http://www.amazon.com/-business-Technology-Strategy-International-Communications/dp/3642163963/ref=sr_1_1?ie=UTF8&qid=1328682694&sr=8-1:title=(Amazon.com)]
+### Lecture Note
+Yoshiaki Fukami, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). [E-business Technology and Strategy]
+(http://www.springerlink.com/content/978-3-642-16396-8/)
+, [http://www.springerlink.com/content/1865-0929/:title=Communications in Computer and Information Science] [http://www.springerlink.com/content/978-3-642-16396-8/:title=Vol. 113], [http://www.springerlink.com/content/gx738105676q1671/:title=pp269--280]. Springer, 2010.  (2010年10月6日）　[http://www.amazon.com/-business-Technology-Strategy-International-Communications/dp/3642163963/ref=sr_1_1?ie=UTF8&qid=1328682694&sr=8-1:title=(Amazon.com)]
 ASIN:3642163963:detail
 
-*国際会議・ワークショップ(査読あり)
+### 国際会議・ワークショップ(査読あり)
 Yoshiaki Fukami and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [http://pacis2018.org/program.html:title=Proceedings] of [http://pacis2018.org/index.html:title=Twenty-Second Pacific Asia Conference on Information Systems], pp. 2273-2285, June 29, 2018. (2018年6月29日)  [http://bit.ly/PACIS2018:title=Proceedings]
 
 Yoshiaki Fukami [https://iwseco.org/program/:title=Open architectural competition strategy: Google’s approach to innovation through standardization.] [https://iwseco.org/:title=The 8th Workshop on Software Ecosystems (IWSECO 2016).], pp. 80-90, December 10, 2016. (2016年12月10日) [http://ceur-ws.org/Vol-1808/IWSECO16-paper6-Fukami-p80-94.pdf:title=(PDF)] [http://ceur-ws.org/Vol-1808/:title=(Proceedings)]
@@ -119,21 +129,21 @@ Yoshiaki Fukami. Effect of implementation-oriented policy based process for stan
 Yoshiaki Fukami, Masao Isshiki and Jiro Kokuryo. Effect of implementationalism: Changes in Standardizing Process and How Proposal Gathers Wider Support. In Proceedings of [http://www.euras.org/euras-2011:title=The 16th EURAS Annual Standardization Conference], pp.109~118, Vytautas Magnus University, Kaunas, Lithuania, 2011. (2011年6月9日)
 
 Y.Fukami, H. Takeda, I. Ohmukai and J. Kokuryo. [http://aisel.aisnet.org/mcis2009/107/:title=From Self-Interest to Commons: Distinct Aspects of Social Bookmarking Services]. In Proceedings of [http://www.mcis2009.org/index.php:title=4th Mediterranean Conference on Information Systems], pp.1234~1240, Athens University of Economics and Business, 2009. (2009年9月25日）[https://dblp1.uni-trier.de/db/conf/mcis/mcis2009.html:title=(Proceedingsのアーカイブ)]
- 
+
 Y.Fukami, H. Takeda, I. Ohmukai and J. Kokuryo. Distinctive Factors of Social Bookmarking Services: Aspect of Tool Affects users' Attitude to the Social Computing Platform. In Proceedings of The IFIP WG9.5 "Virtuality and Society" [http://www.imagesofvirtuality.org/:title=International Workshop on  Images of Virtuality: Conceptualizations and Applications in Everyday Life]. Athens University of Economics and Business, Greece, April 23, 2009. (2009年4月23日)  [http://www.ifip95wg.org/cfp/images-of-virtuality-conceptualizations-and-applications-in-everyday-life-2009/:title=(Ifip wg 9.5によるアーカイブサイト)]
 
 Y. Fukami, T. Sekiya, I. Ohmukai and H. Takeda. Method of Evaluating Contents on the Basis of Community’s Interest Using Data from Social Bookmark Services. In Proceedings of [http://hmi.ewi.utwente.nl/sid07/:title=The 6th International Workshop on Social Intelligence Design], pp. 191~205. Centre for Telematics and Information Technology, University of Twente. July 3, 2007. (2007年7月3日）
 
 Bibtexなどは，[http://jp.citeulike.org/user/yofukami/tag/yfitrlws:title=citeUlike]にまとめてあるのでどうぞ．
 
-*技術会議等発表
+### 技術会議等発表
 Takumi Shimizu (Keio University/Open Knowledge Foundation Japan), Masahiko Shoji (The Center for Global Communications, International University of Japan/ Open Knowledge Foundation Japan), Fuyuko Matsumura (Aoyama Gakuin University/Linked Open Data Initiative), Toru Takahashi (Advanced Telecommunications Research Institute International /ATR Creative Inc./ Linked Open Data Initiative), Iwao Kobayashi (Scholex Inc./ Linked Open Data Initiative), Fumihiro Kato (Research Organization of Information and Systems / Linked Open Data Initiative) , Hiroshi Ueda (ATR Creative Inc.), Yoshiaki Fukami (Keio University/ Linked Open Data Initiative), Hideaki Takeda (National Institute of Informatics/ Linked Open Data Initiative).
 [http://www.w3.org/2013/04/odw/papers#_60:title=Bottom up Activities for linked open data, open government in Japan]. [http://www.w3.org/2013/04/odw/:title=Open Data on the Web (W3C/ Open Data Insititute/ Open Knowledge Foundation共催Workshop]. 2013.  [http://www.w3.org/2013/04/odw/agenda#al60:title=(abstract)] [http://www.w3.org/2013/04/odw/simizu.pdf:title= (PDF slide)]
 
-*紀要
+### 紀要
 深見嘉明. [https://rikkyo.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=14097&item_no=1&page_id=13&block_id=49:title=医療・ヘルスケア領域におけるイノベーション源泉拡張と普及 : コンテストの導入と患者起点イノベーション]. [https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=71&count=50&order=1:title=立教DBAジャーナル], [https://rikkyo.repo.nii.ac.jp/?action=repository_opensearch&index_id=1775&count=50&order=1:title=Vol. 7], pp. 1--13], 2016.
 
-*論考記事
+### 論考記事
 深見嘉明. [http://wirelesswire.jp/special/201112/01/article/7.html:title=「HTML5」][http://wirelesswire.jp/special/201112/01/:title=2012年通信業界気になるキーワード]|[http://wirelesswire.jp/:title=WirelessWire News], 2011年12月26日
 
 深見嘉明(監修) 「Web標準を巡る10年」[http://book.mycom.co.jp/wd/:title=Web Designing] [http://book.mycom.co.jp/wd/backnumber/201106.html:title=2011年6月号] 、pp. 56-57. [http://www.mynavi.jp/:title=毎日コミュニケーションズ], 2011.
@@ -142,11 +152,11 @@ asin:B004YDXVI2:detail
 深見嘉明. POSからクラウド　データ処理の歩みをたどる. 『エコノミスト増刊 巨大データ経済の勝者』2010年8月9日号増刊, pp43-45, 毎日新聞社, 2010.
 asin:B003VKUMD6:detail
 
-*ポジションペーパー
+### ポジションペーパー
 
 
-*その他発表・寄稿
-**連載：
+### その他発表・寄稿
+#### 連載：
 [http://jibun.atmarkit.co.jp/lcom01/index/index_osscom.html:title=OSSコミュニティ運営者に聞く！ ][http://jibun.atmarkit.co.jp/index.html:title=＠IT自分戦略研究所]
 
 [http://jibun.atmarkit.co.jp/lcom01/rensai/osscom/04/01.html:title=できないことは全部やる。できる依頼は断る――Shibuya.pm／Shibuya.js竹迫良範氏インタビュー【後編】][http://jibun.atmarkit.co.jp/index.html:title=＠IT自分戦略研究所], 2012年10月23日
@@ -157,7 +167,7 @@ asin:B003VKUMD6:detail
 
 [http://jibun.atmarkit.co.jp/lcom01/rensai/osscom/01/01.html:title=「貢献者に貢献せよ――The Linux Foundationジャパンディレクタに聞く」【前編】][http://jibun.atmarkit.co.jp/index.html:title=＠IT自分戦略研究所] ※[http://www.linuxfoundation.jp/:title=The Linux Foundation][http://www.linuxfoundation.jp/about/staff:title=ジャパンディレクタ福安徳晃氏]へのインタビュー, 2011年12月22日
 
-**その他の寄稿
+#### その他
 深見嘉明. [https://www.jstage.jst.go.jp/article/bplus/6/4/6_288/_article/-char/ja/:title=ウェブ標準の現場を垣間見て], [http://www.ieice.org/~cs-edit/magazine/index.html:title=電子情報通信学会　通信ソサイエティマガジン], [http://www.ieice.org/~cs-edit/magazine/archive_2012.html#24:title=2013年春号], pp. 24--27. 2013. (2013年3月1日)  [https://www.jstage.jst.go.jp/article/bplus/6/4/6_288/_article/-char/ja/:title=(J-STAGE)]
 ASIN:B00BEZ3AKW
 
@@ -166,20 +176,20 @@ asin:4757416059:detail
 
 深見嘉明．[http://www.nikkeidigitalcore.jp/archives/2007/11/29ruby_city_mat_1.html:title=オープンソースで町おこし〜松江市のRuby City MATSUEプロジェクト〜]．[http://www.nikkeidigitalcore.jp/archives/00700/:title=地域情報化の現場から]，第29回，[http://nikkeidigitalcore.jp/:title=日経デジタルコア](2007) ([http://www.nikkeidigitalcore.jp/archives/2007/11/29ruby_city_mat_1.html:title=web site link])
 
-*インタビューなど
+### インタビューなど
 [https://codeiq.jp/magazine/2016/04/40089/:title=インターネットとWebの誕生が、いつか知ってる？──歴史を語り尽くすWebブラウザ談義【前編】] - CodeIQ MAGAZINE 2016年4月20日
 [https://codeiq.jp/magazine/2016/04/40093/:title=ブラウザ戦争、HTML5の標準化、ブラウザの未来──歴史を語り尽くすWebブラウザ談義【後編】] - CodeIQ MAGAZINE 2016年4月22日
 
 [http://www.atmarkit.co.jp/fwcr/design/benkyo/html5_05/01.html:title=HTML5に関わらないと日本企業は世界から遅れる]  - ＠IT 2010年4月6日
 
-*招待講演など(学術以外のイベントでの講演を含む)
+### 招待講演など(学術以外のイベントでの講演を含む)
 深見嘉明. 産官学連携による地域活性化の具体例:長野県塩尻市におけるワインビジネスの取り組み. [http://www.t-expo.jp/:title=ツーリズムEXPOジャパン2018] [https://rbs.rikkyo.ac.jp/news/2018/09/%E3%83%84%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0expo%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AB%E5%87%BA%E5%B1%95%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99/:title=アカデミー・エリアセッション.] 2018年9月20日. 東京ビックサイト.
 
 深見嘉明. 拡張するメディアセンターの役割とメタデータ. [http://www.lib.keio.ac.jp/jp/index.php:title=慶應義塾大学メディアセンター] [http://www.lib.keio.ac.jp/kenshu/kenshu13/:title=第13回メディアセンター研修会.] 2016年11月17日. [http://www.lib.keio.ac.jp/kenshu/kenshu13/pdf/program_4.pdf:title=(発表資料 PDF)]
 
 登壇者：長井伸晃(神戸市情報化推進部ICT創造担当), モデレータ・司会：深見嘉明. [https://speakerdeck.com/rhys_no1/kobe-barcelona-opendata-2016:title=「神戸・バルセロナ連携 国際ワークショップ」 キックオフセッション]. [http://iodd2016kobe.peatix.com:title=ISWC 2016 KOBE 連携イベント International Open Data Day 2016 神戸 ]. 2016年3月5日.[https://speakerdeck.com/rhys_no1/kobe-barcelona-opendata-2016:title=(IODDでの紹介スライド)]
 
-登壇者：中川雅也(神戸市情報化推進部ICT創造担当)、大山雄輝 (Code for Kobe)、横山輝明(神戸情報大学院大学)、モデレータ：深見嘉明(特定非営利活動法人リンクトオープンデータイニシアティブ/ 立教大学). [https://speakerdeck.com/rhys_no1/empowerment-with-opendata-iodd2016kobe:title=オープンデータはどのようにして 地域をエンパワーメントできるのか], [http://iodd2016kobe.peatix.com:title=ISWC 2016 KOBE 連携イベント International Open Data Day 2016 神戸 ]. 2016年3月5日 [https://speakerdeck.com/rhys_no1/empowerment-with-opendata-iodd2016kobe:title=(リードスライド/ Speaker Deck)] 
+登壇者：中川雅也(神戸市情報化推進部ICT創造担当)、大山雄輝 (Code for Kobe)、横山輝明(神戸情報大学院大学)、モデレータ：深見嘉明(特定非営利活動法人リンクトオープンデータイニシアティブ/ 立教大学). [https://speakerdeck.com/rhys_no1/empowerment-with-opendata-iodd2016kobe:title=オープンデータはどのようにして 地域をエンパワーメントできるのか], [http://iodd2016kobe.peatix.com:title=ISWC 2016 KOBE 連携イベント International Open Data Day 2016 神戸 ]. 2016年3月5日 [https://speakerdeck.com/rhys_no1/empowerment-with-opendata-iodd2016kobe:title=(リードスライド/ Speaker Deck)]
 
 パネリスト：大向一輝（NII, LODI, 横浜オープンデータソリューション発展委員会理事）、村上文洋（三菱総合研究所, VLED事務局）、榊原 彰（日本マイクロソフト株式会社）、モデレータ：深見嘉明. [https://speakerdeck.com/rhys_no1/how-to-create-business-with-opendata-in-yokohama:title=オープンデータという ビジネスチャンスを 横浜でどう活かす？]. [http://peatix.com/event/141533:title=第三回ビジネス活用のためのオープンデータセミナー「ビジネスで使えるオープンデータの技術」]. 2016年1月22日. [https://www.facebook.com/events/168980713465274/:title=(Facebook イベントページ)] [https://speakerdeck.com/rhys_no1/how-to-create-business-with-opendata-in-yokohama:title=(リードスライド: speaker deck)].
 
@@ -265,15 +275,15 @@ asin:4757416059:detail
 
 深見嘉明「Web2.0的ビジネスモデルの実際」[http://www.cluster-chiba.jp/ssIT/archives/2006_06.html:title=千葉県先端情報技術活用研究会次世代インターネット分科会　平成18年度　第1回【ssIT 2006 NextNet 1st】『Web2.0って何？！　〜これからのWebはどうなるのか、また、ソフトウェアやビジネスモデルはどうなるのか〜』] , 2006.
 
-## 学会口頭発表
-- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77会全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)(西南学院大学, Fukuoka)[(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf) [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html)
+### 学会口頭発表
+- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77会全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)(西南学院大学, Fukuoka)[(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf) [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html) [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
-- Y. Fukami. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [http://scos2018.org/:title=The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)] 2018年8月18日. [https://www.meiji.ac.jp/:title=明治大学, Tokyo] [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
+- Y. Fukami. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
- 
+
 - 深見嘉明. [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=データ互換性標準におけるオープンウェブプラットフォーム導入の影響分析.] [http://www.jsicr.jp/operation/taikai/38tai-spring-member.html:title=2018年度春季(第38回)][http://www.jsicr.jp/:title=情報通信学会]大会. 2018年7月1日, [慶應義塾大学 三田キャンパス, Tokyo.] [http://www.jsicr.jp/doc/taikai2018/spring/G-2.pdf:title=(要旨PDF)]
 
-深見嘉明, 清水たくみ. [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=オープンデジタルプラットフォームによるエコシステム形成], [https://confit.atlas.jp/guide/event/aaos2018s/top:title=2018年度組織学会研究発表大会.] 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=(予稿集PDF)]
+- 深見嘉明, 清水たくみ. [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=オープンデジタルプラットフォームによるエコシステム形成], [https://confit.atlas.jp/guide/event/aaos2018s/top:title=2018年度組織学会研究発表大会.] 2018年6月9日. (東京大学本郷キャンパス, Tokyo.) [https://confit.atlas.jp/guide/event-img/aaos2018s/aaos2018s_K_20180609/proceedings:title=(予稿集PDF)]
 
 深見嘉明. [https://www.jstage.jst.go.jp/article/oukan/2017/0/2017_B-5-3/_article/-char/ja:title=コネクテッド・イノベーションと技術認識フレーム], [http://www.trafst.jp/conf2017/:title=第８回横幹連合コンファレンス.] 2017年12月3日
 
@@ -301,5 +311,5 @@ Y.Fukami. Effect of Openness, Open source and Standardization in Building attrac
 
 深見嘉明. [http://2007.conf.ai-gakkai.or.jp/data/paper-73.html:title=ソーシャルブックマークサービスにおけるアノテーション情報の機能分析]. [http://2007.conf.ai-gakkai.or.jp/:title=第21回人工知能学会全国大会]論文集 [http://2007.conf.ai-gakkai.or.jp/data/session-16.html:title=1G1]-[http://2007.conf.ai-gakkai.or.jp/data/paper-73.html:title=4], 2007年6月20日. ([http://www.ai-gakkai.or.jp/jsai/conf/2007/data/pdf/100073.pdf:title=paper])
 
-*学会ポスター発表
-深見嘉明. ウェブ標準の普及に実装主義が果たした役割 −HTML5 を事例に−. [https://www.j-mac.or.jp/conference/:title=日本マーケティング学会 第2回マーケティングカンファレンス2013] 2013年11月10日, 早稲田大学早稲田キャンパス, Tokyo.
+### 学会ポスター発表
+- 深見嘉明. ウェブ標準の普及に実装主義が果たした役割 −HTML5 を事例に−. [日本マーケティング学会](https://www.j-mac.or.jp/) [第2回マーケティングカンファレンス2013](https://www.j-mac.or.jp/conference/) 2013年11月10日, 早稲田大学早稲田キャンパス, Tokyo.
