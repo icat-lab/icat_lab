@@ -55,6 +55,12 @@
 - 2017年11月吉日: 立教大学教育活動特別賞
 
 ## 外部研究資金獲得履歴
+- 2018-2020年度: 科研費「コネクテッド・イノベーションに必要な共有技術認識フレーム確立メカニズムの研究」
+  - 課題番号: 18K12858
+  - 研究種目: 若手研究
+  - 研究代表者: 深見嘉明
+
+- 2017-2018年度: [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
 ## 社会貢献活動
 - 2017年6月-2019年6月: - [経営情報学会](http://www.jasmin.jp/)理事、広報委員長: [普及誌担当=経営情報フォーラム編集長](https://iss.ndl.go.jp/books?rft.title=%E7%B5%8C%E5%96%B6%E6%83%85%E5%A0%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0&search_mode=advanced)
@@ -107,14 +113,23 @@
 
 Bibtexなどは，[http://jp.citeulike.org/user/yofukami/tag/yfjpnjournal:title=citeUlike]にまとめてあるのでどうぞ．
 
-### Lecture Note
-Yoshiaki Fukami, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). [E-business Technology and Strategy]
-(http://www.springerlink.com/content/978-3-642-16396-8/)
-, [http://www.springerlink.com/content/1865-0929/:title=Communications in Computer and Information Science] [http://www.springerlink.com/content/978-3-642-16396-8/:title=Vol. 113], [http://www.springerlink.com/content/gx738105676q1671/:title=pp269--280]. Springer, 2010.  (2010年10月6日）　[http://www.amazon.com/-business-Technology-Strategy-International-Communications/dp/3642163963/ref=sr_1_1?ie=UTF8&qid=1328682694&sr=8-1:title=(Amazon.com)]
-ASIN:3642163963:detail
+### Springer Lecture Note
+- Yoshiaki Fukami, Masao Isshiki, Hideaki Takeda, Ikki Ohmukai, and Jiro Kokuryo. [Specification Patent Management for Web Application Platform Ecosystem](http://www.springerlink.com/content/gx738105676q1671/). In: Zaman M., Liang Y., Siddiqui S.M., Wang T., Liu V., Lu C. (eds)[E-business Technology and Strategy.](https://link.springer.com/book/10.1007/978-3-642-16397-5)[CETS 2010.](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9051&copyownerid=10425) [(2010 International Conference on E-business Technology & Strategy)](https://web.archive.org/web/20100417122741/http://www.cets2010.com/)[Communications in Computer and Information Science,](https://link.springer.com/bookseries/7899)Vol. 113, [Springer,](https://link.springer.com/) 2010.(2010年10月6日）
+  - [Lecture Notes in Computer Science LNCS](https://www.springer.com/gp/computer-science/lncs)
+  - [Scopus index](https/www.scopus.com/sourceid/17700155007)
+  - [(Amazon.co.jp)](https://www.amazon.co.jp/dp/3642163963/)
 
 ### 国際会議・ワークショップ(査読あり)
-Yoshiaki Fukami and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [http://pacis2018.org/program.html:title=Proceedings] of [http://pacis2018.org/index.html:title=Twenty-Second Pacific Asia Conference on Information Systems], pp. 2273-2285, June 29, 2018. (2018年6月29日)  [http://bit.ly/PACIS2018:title=Proceedings]
+- Yoshiaki Fukami and Yoshimasa Masuda. Success factors for realizing regional comprehensive care by HER with Administrative data.	In [proceedings of The 7th KES International Conference on Innovation in Medicine and Healthcare.](http://inmed-19.kesinternational.org/)	June, 2019. (2019年6月) (InterContinental Malta, Malta)
+  - [Scopus index](https/www.scopus.com/sourceid/21100204111)
+  - 科研費による研究発表
+    - 研究課題「コネクテッド・イノベーションに必要な共有技術認識フレーム確立メカニズムの研究」
+    - 課題番号: 18K12858
+    - 研究種目: 若手研究
+    - 研究代表者: 深見嘉明
+
+- Yoshiaki Fukami and Takumi Shimizu. Innovating through standardization : How Google Leverages the Value of Open Digital Platforms. In [Proceedings](http://bit.ly/PACIS2018) of [Twenty-Second](http://pacis2018.org/program.html) [Pacific Asia Conference on Information Systems](http://pacis2018.org/index.html), pp. 2273-2285, June 29, 2018. (2018年6月29日)
+  - [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
 Yoshiaki Fukami [https://iwseco.org/program/:title=Open architectural competition strategy: Google’s approach to innovation through standardization.] [https://iwseco.org/:title=The 8th Workshop on Software Ecosystems (IWSECO 2016).], pp. 80-90, December 10, 2016. (2016年12月10日) [http://ceur-ws.org/Vol-1808/IWSECO16-paper6-Fukami-p80-94.pdf:title=(PDF)] [http://ceur-ws.org/Vol-1808/:title=(Proceedings)]
 
@@ -137,7 +152,7 @@ Y. Fukami, T. Sekiya, I. Ohmukai and H. Takeda. Method of Evaluating Contents on
 Bibtexなどは，[http://jp.citeulike.org/user/yofukami/tag/yfitrlws:title=citeUlike]にまとめてあるのでどうぞ．
 
 ### 技術会議等発表
-Takumi Shimizu (Keio University/Open Knowledge Foundation Japan), Masahiko Shoji (The Center for Global Communications, International University of Japan/ Open Knowledge Foundation Japan), Fuyuko Matsumura (Aoyama Gakuin University/Linked Open Data Initiative), Toru Takahashi (Advanced Telecommunications Research Institute International /ATR Creative Inc./ Linked Open Data Initiative), Iwao Kobayashi (Scholex Inc./ Linked Open Data Initiative), Fumihiro Kato (Research Organization of Information and Systems / Linked Open Data Initiative) , Hiroshi Ueda (ATR Creative Inc.), Yoshiaki Fukami (Keio University/ Linked Open Data Initiative), Hideaki Takeda (National Institute of Informatics/ Linked Open Data Initiative).
+- Takumi Shimizu (Keio University/Open Knowledge Foundation Japan), Masahiko Shoji (The Center for Global Communications, International University of Japan/ Open Knowledge Foundation Japan), Fuyuko Matsumura (Aoyama Gakuin University/Linked Open Data Initiative), Toru Takahashi (Advanced Telecommunications Research Institute International /ATR Creative Inc./ Linked Open Data Initiative), Iwao Kobayashi (Scholex Inc./ Linked Open Data Initiative), Fumihiro Kato (Research Organization of Information and Systems / Linked Open Data Initiative) , Hiroshi Ueda (ATR Creative Inc.), Yoshiaki Fukami (Keio University/ Linked Open Data Initiative), Hideaki Takeda (National Institute of Informatics/ Linked Open Data Initiative).
 [http://www.w3.org/2013/04/odw/papers#_60:title=Bottom up Activities for linked open data, open government in Japan]. [http://www.w3.org/2013/04/odw/:title=Open Data on the Web (W3C/ Open Data Insititute/ Open Knowledge Foundation共催Workshop]. 2013.  [http://www.w3.org/2013/04/odw/agenda#al60:title=(abstract)] [http://www.w3.org/2013/04/odw/simizu.pdf:title= (PDF slide)]
 
 ### 紀要
@@ -276,7 +291,12 @@ asin:4757416059:detail
 深見嘉明「Web2.0的ビジネスモデルの実際」[http://www.cluster-chiba.jp/ssIT/archives/2006_06.html:title=千葉県先端情報技術活用研究会次世代インターネット分科会　平成18年度　第1回【ssIT 2006 NextNet 1st】『Web2.0って何？！　〜これからのWebはどうなるのか、また、ソフトウェアやビジネスモデルはどうなるのか〜』] , 2006.
 
 ### 学会口頭発表
-- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77会全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)(西南学院大学, Fukuoka)[(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf) [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html) [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
+- 深見嘉明、増田佳正. 官民データ連携の事例創出事例分析: 兵庫県丹波市における予防接種実施判定システム構築とその発展. [日本情報経営学会第78回全国大会.](https://conferenceservice.jp/www/jsim78/) 2019年6月.(静岡大学, Hamamatsu)
+
+- 深見嘉明. “Rough-consensus, running-code”から実装主義へ: 相互可用性標準確立プロセスの成熟化. [日本情報経営学会第77回全国大会.](http://www.jsim.gr.jp/conferences/jsim77/) [2018年11月23日.](http://www.jsim.gr.jp/conferences/jsim77/doc/jsim77program_1123_final5.pdf)(西南学院大学, Fukuoka)
+  - [(若手研究発表賞:YIA, Young Investigator Award 受賞）](https://conferenceservice.jp/www/jsim77/doc/yiajia_jsim77result.pdf)
+  - [(立教大学大学院ビジネスデザイン研究科ウェブサイト記事)](https://business-school.rikkyo.ac.jp/news/2018/fqvjit0000000i6f.html)
+  - [公益財団法人電気通信普及財団　研究調査助成](https://www.taf.or.jp/grant-a/)
 
 - Y. Fukami. [Google’s strategy to transform web architecture: Innovation through standardization overcoming framing contest.](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing) [The 36th Standing Conference on Organizational Symbolism and The 7th Australasian Caucus of the Standing Conference on Organizational Symbolism conference. (SCOS 2018)](http://scos2018.org/)  2018年8月18日. [明治大学, Tokyo](https://www.meiji.ac.jp/) [(予稿集PDF)](https://drive.google.com/file/d/1Oi6PVHFio_AB07K0I55eEYK54HgCyzRA/view?usp=sharing)
 
