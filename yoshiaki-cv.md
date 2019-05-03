@@ -46,7 +46,7 @@
 - 2015年4月-現任: [立教大学](https://www.rikkyo.ac.jp/) [大学院](https://www.rikkyo.ac.jp/academics/graduate/)[ビジネスデザイン研究科](https://business-school.rikkyo.ac.jp/)[特任准教授](http://univdb.rikkyo.ac.jp/view?l=ja&u=100001304&a2=0000010&o=affiliation&sm=affiliation&sl=ja&sp=2)
 - 2014年4月-現任: [成蹊大学](http://www.seikei.ac.jp/university/)[文学部](http://www.seikei.ac.jp/university/bungaku/index.html)[現代社会学科](http://www.seikei.ac.jp/university/bungaku/contemporary/index.html)非常勤講師
 - 2012年4月-2014年3月: [立教大学](https://www.rikkyo.ac.jp/)[経営学部](http://www.rikkyo.ac.jp/academics/undergraduate/business/)兼任講師
-- 2011年4月-2013年3月: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/)政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)特任助教
+- 2011年4月-2013年3月: [慶應義塾大学](http://www.keio.ac.jp/index-jp.html)[大学院](http://www.sfc.keio.ac.jp/academics/graduate/) [政策・メディア研究科](https://www.sfc.keio.ac.jp/gsmg/)特任助教
 - 2010年10月-2014年3月: [神奈川工科大学](http://www.kait.jp/)[創造工学部](http://www.kait.jp/ug_gr/undergrad/creative/)[ホームエレクトロニクス開発学科](http://www.kait.jp/ug_gr/undergrad/creative/homeElectronics/)非常勤講師。
 - 1999年4月-2005年 7月: [株式会社電通リサーチ](http://www.dentsuresearch.co.jp/)
 
