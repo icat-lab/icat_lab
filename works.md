@@ -1,11 +1,11 @@
+# 2018年度
+## 秋山和子
+- 秋山和子、深見嘉明. [日本におけるコーズリレーテッドマーケティングの受容度.](http://www.j-mac.or.jp/poster/dtl.php?ps_id=137) [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/) ポスターセッション, 2018年10月14日. 
+
+## 池澤勇貴
+- 池澤勇貴、松本綾希子、棚倉健太、深見嘉明. [日本のがん治療市場における放射線治療普及阻害要因分析と、普及施策の検討](http://www.j-mac.or.jp/poster/dtl.php?ps_id=138). [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/) ポスターセッション, 2018年10月14日.
+
 # 2016年度
-## 深見嘉明
-- 深見嘉明, 「オープンプラットフォーム・コントロール戦略: オープン標準の策定・普及を通じたイノベーションとビジネスモデル実現」 経営情報学会 2016年秋季全国研究発表大会, 2016.
-
-- 深見嘉明, プレ標準化フェイズにおける仕様コンセプト収斂メカニズムの解析: 国土地理院・地理院地図のGitHub活用とコミュニケーション戦略, 第137回情報システムと社会環境研究発表会, 2016年.
-
-- Yoshiaki Fukami and Susumu Ogawa. Gift Catalog For Hospital Visit: Sustainable Way To Develop Business From Patient Innovation. The 14th International Open and User Innovation Conference. August 2, 2016.
-
 ## 伊藤博康
 - 伊藤博康, 深見嘉明, 「情報セキュリティビジネスにおける競争優位創出のための要因」情報処理学会 情報システムと社会環境研究会 第137回研究発表会, 2016.
 - 伊藤博康, 深見嘉明, 「情報セキュリティビジネスにおける競争優位創出のための要因」経営情報学会 2016年秋季全国研究大会, 2016.
@@ -15,9 +15,6 @@
 - 久富真一, 「ワクチン接種における意思決定のジレンマについて」日本マーケティング学会 マーケティングカンファレンス2016 ポスターセッション, 2016.
 
 # 2015年度
-## 深見嘉明
-- Yoshiaki Fukami and Susumu Ogawa. Open collaborative innovation through standardization at the W3C. 13th Open and User Innovation Society Meeting. July 13, 2015. (2015年7月13日)
-
 ## 伊藤博康
 - 伊藤博康, 「情報セキュリティビジネスにおける競争優位創出のための要因」ビジネスクリエーター研究学会 第15回大会, 2015.
 - 伊藤博康, 「情報セキュリティビジネスにおける競争優位創出のための要因」経営情報学会 2015年秋季全国研究大会 ポスターセッション, 2015.
