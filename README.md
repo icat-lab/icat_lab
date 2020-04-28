@@ -1,9 +1,7 @@
 # このリポジトリの説明
-このリポジトリは、[立教大学](http://www.rikkyo.ac.jp/)[大学院ビジネスデザイン研究科 (立教ビジネススクール)](http://www.rikkyo.ac.jp/sindaigakuin/bizsite/)、 [深見嘉明研究室](http://icat-lab.tumblr.com/)の活動における情報共有ならびに情報発信のために開設されています。
+このリポジトリは、[学習院大学](https://www.univ.gakushuin.ac.jp/)[経済学部](https://www.univ.gakushuin.ac.jp/eco/)[経営学科｜学習院大学 経済学部](https://www.univ.gakushuin.ac.jp/eco/education/management/index.html)における深見嘉明の教育活動に関する情報提供、ならびに[立教大学大学院ビジネスデザイン研究科](https://business-school.rikkyo.ac.jp/)に2015-2019年度に開設されていた深見ゼミの活動における情報共有ならびに情報発信のために開設されています。
 
-ゼミの活動や、主宰教員である[深見嘉明](http://d.hatena.ne.jp/yofukami/about)担当の授業に関する情報は、[はてなブログ] (http://icatlab.hatenablog.com/) においても公開されます。
-
-# 研究室に関する情報
+# 立教ビジネススクール深見研究室に関する情報
 
 ## メンバー
 [深見研究室メンバー紹介](https://github.com/icat-lab/icat_lab/blob/master/member.md)をご参照ください。
