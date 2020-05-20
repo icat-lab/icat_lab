@@ -20,3 +20,13 @@ Google Formですが、manabaならびにGoogle Classroomと完全な連携が�
 - [GoogleによるreCAPTCHA説明ページ (英語のみ)](https://support.google.com/recaptcha/?hl=en)
 - [reCAPTCHA に関するよくある質問 \- Google 検索 Community](https://support.google.com/websearch/thread/2145243?hl=ja)
 - [「私はロボットではありません」選ぶ必要なし　新「reCAPTCHA」Googleが公開、ユーザーは何もしなくてOK \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/1810/30/news109.html)
+
+# 3
+## Q3
+就職活動や、通信環境などの都合により、ライブ講義に参加できなかったが、大丈夫でしょうか。
+
+## A3
+オンデマンド授業の英語で学ぶビジネス事情 IT企業最前線、ならびにライブ講義がオンデマンド授業の補足的な位置づけである経営戦略I/IIでは、ライブ講義の出席点はそもそも存在しません。
+IoT時代のビジネスデザインはグループワークであるため、ライブ講義への出席そのものが成績の対象となるわけではなく、グループへの貢献と、グループワークからの学びに関する報告内容が成績評価対象となります。そのため、特定回の出席が致命的になるような評価手法は採用しません。
+また、5月中はzoomへのアクセス状況が整わない履修者が存在することを前提とし、そうした履修者への配慮に努めます。
+
