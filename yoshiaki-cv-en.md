@@ -2,8 +2,14 @@
 July 5th, 2019
 
 # Affiliation
-## 2015-  Specially Appointed Associate Professor at Graduate School of Business Administration, Rikkyo University
+## 2020-  Specially Appointed Professor at [Department of Management](https://www.univ.gakushuin.ac.jp/eco/en/education/management/), [Gakushuin University Faculty of Economics](https://www.univ.gakushuin.ac.jp/eco/en/), [Gakushuin University](https://www.univ.gakushuin.ac.jp/en/)
 * Fields: Enterprize Architecture, Data Architecture, Standardization Strategy, Open Collaborative Innovation, Platform Strategy
+* In charge of classes; Business design with IoT related technologies, Technology management, IT business update, Platform strategy, Management strategy.
+
+## 2019-  Specially Appointed Associate Professor at Graduate School of Media and Governance, Keio University
+* As a member of [Cyber Civilization Research Center](https://www.ccrc.keio.ac.jp/)
+
+## 2015-2020  Specially Appointed Associate Professor at Graduate School of Business Administration, Rikkyo University
 * In charge of classes; Innovation management, Media business theory, Technology marketing, business game and business plan development.
 
 ## 2012-  Director (strategy and promotion of open data and standard for open data on the Web) at Linked Open Data Initiative (a specified non-profit corporation of Japan)
