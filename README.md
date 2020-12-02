@@ -6,6 +6,10 @@
 - [経営学特殊講義（IoT時代のビジネスデザイン）](https://github.com/icat-lab/Biz_Design_IoT): 1学期 水 3時限
 - [英語で学ぶビジネス事情（IT企業最前線）](https://github.com/icat-lab/IT_Biz_Trend): 1学期 水 ４時限
 
+# 学習院大学経済学部経営学科において2021年度開講予定科目に関する情報
+2021年に、経営入門演習を担当する予定です。経営入門演習に関する情報は、以下のページから参照できます。
+- [経営入門演習トップページ](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar.md)
+
 # 2019年度まで開設されていた立教ビジネススクール深見研究室に関する情報
 
 ## メンバー
