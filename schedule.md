@@ -6,7 +6,11 @@
   - markdown基礎レクチャー
   - issuesに自己紹介を投稿
   - slackアカウント作成  
-1. 輪読1
+  
+2. 輪読1
   - 文献紹介
-  - 発表順の確定 
-1. 輪読2
+  - [進め方](https://github.com/icat-lab/icat_lab/blob/master/literature_review.md)の確認
+  - 発表担当順の確定   
+
+2. 輪読2-10or11 (ゲストスピーカーの人数で確定)
+  - [進め方](https://github.com/icat-lab/icat_lab/blob/master/literature_review.md)通りに輪読を実施
