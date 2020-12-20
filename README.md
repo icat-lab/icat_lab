@@ -22,14 +22,11 @@
 以下のリンク先を参照ください。
 - [研究室のコンセプト](https://github.com/icat-lab/icat_lab/blob/master/research_topic.md)
 - [リサーチアジェンダ: 医療・製薬・保健分野におけるオープン・ユーザーイノベーション](https://github.com/icat-lab/case_med_innovation/blob/master/agenda.md)
+- [リサーチアジェンダ: クラフト醸造ビジネス](https://github.com/icat-lab/craft_brewing_business)
 
 ## 研究室の研究業績
 [研究業績ページ](https://github.com/icat-lab/icat_lab/blob/master/works.md)を参照ください。
 
 ## 研究室の関連URL
-- [Twitter/ @icat_lab](https://twitter.com/icat_lab/)   ※研究室のハッシュタグは #icat_lab 
-- [はてなブログ](http://icatlab.hatenablog.com/) 
-
-
-
-
+- [Twitter/ @icat_lab](https://twitter.com/icat_lab/)   ※研究室のハッシュタグは #icat_lab
+- [はてなブログ](http://icatlab.hatenablog.com/)
