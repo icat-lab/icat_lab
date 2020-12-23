@@ -8,7 +8,7 @@ with コロナという前提で、オンラインにおけるコラボレーシ
 ## 情報告知Twitter
 深見嘉明担当科目情報配信Twitterアカウント [@icat_lab](https://twitter.com/icat_lab)
 
-ハッシュタグは #IoT時代のビジネスデザイン #icatlab
+ハッシュタグは #icatlab
 
 ## 演習実施方法
 COVID-19流行下におけるコラボレーション手法を実践的に学びながら、組織のDXを実現するのに不可欠な組織構造を理解するための輪読やゲストスピーカーの講演聴講、調査研究に関する基礎的な知識の習得などを目指します。
@@ -25,11 +25,6 @@ COVID-19流行下におけるコラボレーション手法を実践的に学び
 
 ### 2学期
 基本的には1学期同様、文献購読を主とします。ただし、事例分析や事業計画の策定など、アウトプットをGitHub上の共同作業を通じて行う演習を交えることも想定します。
-
-## 購読対象文献
-- Burrell, G., & Morgan, G. (2017). *Sociological paradigms and organisational analysis: Elements of the sociology of corporate life.* Heinemann. [(Google Play eBook)](https://play.google.com/store/books/details?id=8UtBDgAAQBAJ)
-  - 日本語訳: 鎌田伸一、金井一頼、野中稲次郎訳、『組織理論のパラダイム―機能主義の分析枠組』 1986年、千倉書房. [(Amazon)](https://www.amazon.co.jp/dp/4805105364)
-
 
 
 ## 成績評価
