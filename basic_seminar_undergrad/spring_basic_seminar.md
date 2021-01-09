@@ -20,7 +20,6 @@ COVID-19流行下におけるコラボレーション手法を実践的に学び
   - issuesに自己紹介を投稿
   - slackアカウント作成  
   
-
 2. 輪読1
   - 文献紹介
   - [進め方](https://github.com/icat-lab/icat_lab/blob/master/literature_review.md)の確認
