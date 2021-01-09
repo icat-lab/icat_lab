@@ -25,8 +25,27 @@ COVID-19流行下におけるコラボレーション手法を実践的に学び
   - [進め方](https://github.com/icat-lab/icat_lab/blob/master/literature_review.md)の確認
   - 発表担当順の確定   
 
-3-13. 輪読2-10or11 (ゲストスピーカーの人数で確定)
-  - [進め方](https://github.com/icat-lab/icat_lab/blob/master/literature_review.md)通りに輪読を実施
+3. 輪読2: 社会科学の理論とは
+
+4. 輪読3: 社会科学におけるモデルとは
+
+5. 輪読4: 社会や組織は何によって構成されているのか
+
+6. 輪読5: 社会や組織はどのように機能しているのか
+
+7. 中間まとめ/事例分析
+
+8. 輪読6: 制度や組織を成立させているのはなにか
+
+9. 輪読7: 組織理論のパラダイム
+
+10. 輪読8: 社会システム
+
+11. 輪読9: 組織における相互作用
+
+12. 輪読10: 客観と主観
+
+13. 輪読11: 機能と構造
 
 14. まとめ
 
@@ -46,6 +65,9 @@ COVID-19流行下におけるコラボレーション手法を実践的に学び
 ゼミ内ではその場で、オンライン提出物にはそのツール上で、適宜講評、コメント等をします。
 
 ## 購読対象文献
-日本語訳を輪読します
+輪読対象は、すべて日本語著書、ならびに日本語訳です。
+
 - Burrell, G., & Morgan, G. (2017). *Sociological paradigms and organisational analysis: Elements of the sociology of corporate life.* Heinemann. [(Google Play eBook)](https://play.google.com/store/books/details?id=8UtBDgAAQBAJ)
   - 日本語訳: 鎌田伸一、金井一頼、野中稲次郎訳、『組織理論のパラダイム―機能主義の分析枠組』 1986年、千倉書房. [(Amazon)](https://www.amazon.co.jp/dp/4805105364)
+
+- 稲葉振一郎. (2009). [『社会学入門 ＜多元化する時代＞をどう捉えるか』](https://www.nhk-book.co.jp/detail/000000911362009.html) NHK出版. [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4140911360)
