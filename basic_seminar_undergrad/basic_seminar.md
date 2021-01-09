@@ -29,6 +29,7 @@ COVID-19流行下におけるコラボレーション手法を実践的に学び
 詳細は[こちら](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar_undergrad/autumn_basic_seminar.md)
 
 ## 成績評価
-COVID-19流行によるオンライン化を鑑み、履修者の状況を配慮した形で成績評価を実施します。[こちら](https://github.com/icat-lab/icat_lab/blob/master/qa_for_courses_underGrad.md#3)も参照ください。
+COVID-19流行によるオンライン化を鑑み、履修者の状況を配慮した形で成績評価を実施します。
+[こちら](https://github.com/icat-lab/icat_lab/blob/master/qa_for_courses_underGrad.md#3)も参照ください。
 
 ## GitHub内リンク
