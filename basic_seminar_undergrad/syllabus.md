@@ -6,8 +6,6 @@
 ## プレゼンテーション
 [参照スライドです。](https://speakerdeck.com/rhys_no1/ay2021-basic-seminar-orianentation)
 
-<script async class="speakerdeck-embed" data-id="d013d52127534ed68de50926e835483d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
 ## 授業概要
 デジタル技術の進化は、ビジネスはもちろん、社会経済活動のあらゆる領域に変革=Digital Transformation(DX)をもたらしている。この入門演習ではオンラインツールを用いた学修・コラボレーション手法の実践を通じて、COVID-19流行以降の新しい日常に対応した価値転換・価値創出のあり方について検討していく。研究倫理教育の一環として、発表やレポート作成等の際の適切な引用の仕方および不用意な剽窃・盗用を避けるための指導も実施します。（なお、プログラミングなどの技術的な内容は取り扱いません)
 
