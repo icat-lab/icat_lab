@@ -9,4 +9,4 @@
 1. チームメンバーは、その週の代表者の投稿を踏まえて、「自分自身での要約」と「代表者の要約に対する感想・コメント」を含むテンプレートに即してフィードバックを、[Issues](https://github.com/icat-lab/ay2021spring_icatlab/issues)に設けられた投稿先にアップロードする。
 
 ## ゼミの時間内
-1. その週の担当者が、[<>code](https://github.com/icat-lab/ay2021spring_icatlab/tree/main/homework)の要約版を説明する。
+1. その週の担当者が、[<>code](https://github.com/icat-lab/ay2021spring_icatlab/tree/main/homework)の要約版を説明する。 
