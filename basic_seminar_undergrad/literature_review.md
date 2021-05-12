@@ -1,5 +1,5 @@
 # 文献購読の進め方
-
+ 
 ## 月曜日締切
 1. その週の担当者が、その週の文献を読み込み、要約を[テンプレート (中身はこれまでのissues用と同じ)](https://github.com/icat-lab/ay2021spring_icatlab/blob/main/templete_issues)を用いて[<>code](https://github.com/icat-lab/ay2021spring_icatlab)に設けられた[提出先](https://github.com/icat-lab/ay2021spring_icatlab/tree/main/homework)に、`group#_mmdd.md` (例: group1_0504.md または group2_0504.md ) に投稿する。
 
