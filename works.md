@@ -1,6 +1,37 @@
+# 2024年度
+## マーケティングカンファレンス2024 学生発表一覧
+1. [サードウェーブコーヒー文化のグローバル展開と地域適応 ― 「MORNING GLASS COFFEE ＋ CAFE」と「ERIC ROSE」を事例に ―](https://www.j-mac.or.jp/poster/dtl.php?ps_id=525)  
+   丹羽 悠太（東京理科大学 経営学部 学生）  
+2. [アパレルブランドによる飲食店運営がブランドパーセプションやパーソナリティに与える影響](https://www.j-mac.or.jp/poster/dtl.php?ps_id=513)  
+   下橋 怜（東京理科大学 経営学部 学生）  
+3. [観光動機に基づく小規模銭湯のインバウンド需要取り込みに向けたマーケティング施策の検討](https://www.j-mac.or.jp/poster/dtl.php?ps_id=527)  
+   佐藤 廉士郎（東京理科大学 経営学部 学生）  
+4. [「デジタルデトックス」における関連組織・サービス運営設計検討](https://www.j-mac.or.jp/poster/dtl.php?ps_id=515)  
+   森 友輝（東京理科大学 経営学部 学生）  
+5. [高齢者の孤立死の発生要因分析と個人を尊重した支援のあり方の考察](https://www.j-mac.or.jp/poster/dtl.php?ps_id=517)  
+   佐治 あゆみ（東京理科大学 経営学部 学生）  
+6. [若年男性の行動変容を目標とする脂肪肝リスクに関する最適な情報提示方法の研究](https://www.j-mac.or.jp/poster/dtl.php?ps_id=493)  
+   森本 晴人（東京理科大学 経営学部 学生）  
+7. [デジタルデバイス導入の障壁低減のための要因分析](https://www.j-mac.or.jp/poster/dtl.php?ps_id=526)  
+   淺見 昇平（東京理科大学 経営学部 学生）  
+8. [健康寿命延伸における生活活動の習慣形成のための受容メカニズム解析](https://www.j-mac.or.jp/poster/dtl.php?ps_id=506)  
+   恵美 佑亮（東京理科大学 経営学部 学生）  
+9. [リハビリテーションにおける患者の能動的参加に影響する要因の検討](https://www.j-mac.or.jp/poster/dtl.php?ps_id=528)  
+   信長 倖輔（東京理科大学 経営学部 学生）  
+10. [リハビリ現場における業務フローの効率化から見える医療経営の実態](https://www.j-mac.or.jp/poster/dtl.php?ps_id=498)  
+    吉田 隼人（東京理科大学 経営学部 学生）  
+11. [病院薬剤師のジェンダーギャップが職場満足度に与える影響](https://www.j-mac.or.jp/poster/dtl.php?ps_id=512)  
+    富田 祐希（東京理科大学 経営学部 学生）  
+12. [イギリスNHSの医療情報化プロジェクト（NPfIT）から分析する日本の地域間情報共有の展望](https://www.j-mac.or.jp/poster/dtl.php?ps_id=516)  
+    河野 耀太郎（東京理科大学 経営学部 学生）  
+13. [ワインにおける味わいへの影響が生じる構造の分析 ― 店頭のワインにおける生産者側が消費者側に提案したい味わいを感覚的に伝えることを目的とするラベルの色味がもたらす味わいの傾向の発見 ―](https://www.j-mac.or.jp/poster/dtl.php?ps_id=523)  
+    狩野 聖陽（東京理科大学 経営学部 学生）  
+14. [日本酒に対する購買行動プロセスにおいて損失回避性が消費者の意思決定に最も影響を与える段階の検証](https://www.j-mac.or.jp/poster/dtl.php?ps_id=519)  
+    田邉 和奏奈（東京理科大学 経営学部 学生）
+
 # 2018年度
 ## 秋山和子
-- 秋山和子、深見嘉明. [日本におけるコーズリレーテッドマーケティングの受容度.](http://www.j-mac.or.jp/poster/dtl.php?ps_id=137) [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/) ポスターセッション, 2018年10月14日. 
+- 秋山和子、深見嘉明. [日本におけるコーズリレーテッドマーケティングの受容度.](http://www.j-mac.or.jp/poster/dtl.php?ps_id=137) [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/) ポスターセッション, 2018年10月14日.
 
 ## 池澤勇貴
 - 池澤勇貴、松本綾希子、棚倉健太、深見嘉明. [日本のがん治療市場における放射線治療普及阻害要因分析と、普及施策の検討](http://www.j-mac.or.jp/poster/dtl.php?ps_id=138). [日本マーケティング学会](http://www.j-mac.or.jp/) [第7回マーケティングカンファレンス2018](http://www.j-mac.or.jp/conference/conference2018/) ポスターセッション, 2018年10月14日.
