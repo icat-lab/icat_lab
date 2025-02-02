@@ -12,7 +12,7 @@
 - [経営入門演習](https://github.com/icat-lab/icat_lab/blob/master/basic_seminar_undergrad/basic_seminar.md)
 
 # メンバー
-[立教ビジネススクール深見研究室メンバー紹介](https://github.com/icat-lab/icat_lab/blob/master/member.md)をご参照ください。
+[深見研究室メンバー紹介](https://github.com/icat-lab/icat_lab/blob/master/member.md)をご参照ください。
 
 ## 研究内容
 以下のリンク先を参照ください。
