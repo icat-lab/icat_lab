@@ -4,9 +4,10 @@
 # 東京理科大学IDM　Capstone Project/ 卒業研究
 [こちら](https://github.com/icat-lab/icat_lab/blob/master/capstone/general_info.md)を参照ください。FAQ（よくある質問と回答）もあります。
 # 東京理科大学IDM アグリ&ワインツーリズム部
-[こちら](https://github.com/icat-lab/tourism/tree/main)を参照ください。北海道仁木町を舞台にしたツーリズム活性化プロジェクトを行っています。
-## 仁木産業振興社ワインラベルデザインプロジェクト
+[こちら](https://github.com/icat-lab/tourism/tree/main)を参照ください。北海道仁木町、長万部町、八雲町などを舞台にしたツーリズム活性化プロジェクトを行っています。
+## 仁木産業振興社VY2023ワインラベルデザインプロジェクト
 北海道仁木町の[仁木産業振興社](https://niki-wine-tourism.com/winery/08/)様のワイン製品ラベルデザインプロジェクトを[札幌市立大学福田研究室と共同で実施しました](https://www.scu.ac.jp/research/news/%e5%8d%94%e5%89%b5%e3%83%a9%e3%83%9c%ef%bc%88%e7%a6%8f%e7%94%b0%e7%a0%94%e7%a9%b6%e5%ae%a4%ef%bc%89%ef%bd%9c%e9%81%93%e7%94%a3%e3%83%af%e3%82%a4%e3%83%b3%e3%83%a9%e3%83%99%e3%83%ab%e3%81%a8%e3%83%8d/)。
+  * [IDMウェブページニュース](https://dept.tus.ac.jp/idm/news/20250527/)
 
 # 学習院大学経済学部経営学科 担当科目 (2020-2022年度)
 - [英語で学ぶビジネス事情（IT企業最前線）](https://github.com/icat-lab/IT_Biz_Trend): 1学期 水 ４時限
